@@ -3,6 +3,18 @@
 ## 实现思路
 在线高德地图通过浏览器将资源下载到本地，包括地图api文件、init文件、mapsPlugins文件、样式文件
 
+## 离线api包含的插件
+1. AMap.MouseTool
+2. AMap.PolyEditor
+3. AMap.Map
+4. AMap.Polyline
+5. AMap.Polygon
+6. AMap.PlaceSearch
+7. AMap.AutoComplete
+8. AMap.Marker
+9. AMap.Icon
+10. AMap.InfoWindow
+
 ## 下载离线地图
 百度网盘链接: https://pan.baidu.com/s/12OOOAM_KIRByM68ez7Zxhw?pwd=c374 提取码: c374
 
